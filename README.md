@@ -12,5 +12,4 @@ predict.pyで0と1の画像を含んだtestデータに対して、異常度を�
 まだできていないこと
 自分のpytorchのコードに一回落とし込んでそのまま作ったので、lightningにはまだできていない
 
-もとのcolabのコード
-https://colab.research.google.com/drive/1K4DM2H8DyVKx9j05k52qLi_Ze2pyWD6y#scrollTo=-jMfIhJC_5Gc
+もとのcolabのコードはanogan.ipynbにあります。
